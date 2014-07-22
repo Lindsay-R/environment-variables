@@ -38,7 +38,7 @@ Some of these variables should be familiar, like PATH:
 The PATH environment variable, as you may remember, stores a list of directories that your
 computer should look in to find other programs.
 
-You can look at the value of a single environment variable from the command line using `echo $<VARIABLE_NAME>`.
+You can look at the value of a single environment variable from the command line using `echo $<VARIABLE_NAME>`. EX: echo $SHELL
 Check out the example below:
 
     |ruby-2.1.1@gschool| Hunters-MacBook-Pro in ~/gschool/dev/exercises/environment-variables
